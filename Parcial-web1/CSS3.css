@@ -24,12 +24,12 @@ body{
     box-shadow: rgb(0 0 0 / 25%) 0px 4px 4px;
     border-radius: 18px;
     padding: 2rem;
-    max-width: 1255px;
     margin-top: 1rem;
     margin-left: 1rem;
     flex-wrap: nowrap;
     padding-bottom: 3rem;
     align-items: center;
+    margin-right: 1rem;
 }
 .medio img{
     max-width: 250px;
